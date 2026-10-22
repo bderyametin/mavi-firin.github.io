@@ -1,0 +1,15 @@
+3. Hafta - S1: GitHub Repo Açıklaması: "SEO dersi için örnek Türkçe fırın web sitesi."
+
+3. Hafta - U4: CSS Hatası: Site açılıyor ancak CSS görünmüyorsa ilk olarak HTML içindeki CSS dosya yolu ve dosya adındaki yazım hataları incelenmelidir (style.css dosyasının konumu ve <link rel="stylesheet" href="style.css"> etiketi kontrol edilmelidir).
+
+2. Hafta - U4 & S4: Mobil Test ve Taşan Öğe: Tarayıcı penceresi daraltılarak (mobil ekran görünümünde) test edilmiştir. Metinler esnek font ve responsive kurallar sayesinde ekrana sığmakta, kayma olmadan rahatça okunabilmekte ve tüm bağlantılar/butonlar tıklanabilir kalmaktadır. Sayfada kutu modeli (box-sizing: border-box) ve esnek genişlikler (max-width) kullanıldığından yatay kaydırma çubuğu (horizontal scroll) oluşturan veya dışarı taşan herhangi bir öğe bulunmamaktadır.
+
+1. Hafta - U2: Site Sayfaları: index.html, urunler.html, hakkimizda.html, iletisim.html.
+
+1. Hafta - U3: Google Sonuç Taslağı: Başlık: "Mavi Fırın | Eskişehir Taze Ekmek"; Açıklama: "Günlük ekmek çeşitlerini ve adresimizi keşfedin."
+
+1. Hafta - S1: "Yakınımdaki fırın" Araması: Bu arama için konum, adres ve ulaşım bilgisi öne çıkmalıdır.
+
+1. Hafta - S2 & S3: Sayfa Amaçları: Ürünler: Çeşitler; Hakkımızda: İşletme hikayesi; İletişim: Adres ve ulaşım.
+
+1. Hafta - S4: Eksik Bilgi Önerisi: Çalışma saatleri ve ürün fiyatları eklenebilir.
